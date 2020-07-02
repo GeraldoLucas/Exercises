@@ -1,6 +1,9 @@
 # Exercises
  ENG-US
 MIT Python Exercise
+
+''  TO ACESS RESOLUTIONS, SEARCH FOR MAIN.PY INSIDE THE FOLDER.  ''
+
 Using the Python language in solving college exercises.
 Harvard-MIT Math Tournament 2018/2019 
   Compute the smallest positive integer n for which 
