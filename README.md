@@ -10,5 +10,5 @@
   
 [Harvard-MIT Math Tournament 2018/2019](https://s3.amazonaws.com/hmmt-archive/november/2018/HMMTNovember2018GeneralRoundSolutions.pdf)
   
-![MIT](https://user-images.githubusercontent.com/59056176/93005298-35e53e80-f526-11ea-80cb-d98292b13673.png)
+![MIT](https://user-images.githubusercontent.com/59056176/93005358-9f654d00-f526-11ea-9278-7dae478138f9.png)
 
