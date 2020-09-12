@@ -7,3 +7,7 @@
   √(100 + √n) + √(100 - √n) is an integer.*** 
   
   
+  
+[Harvard-MIT Math Tournament 2018/2019](https://s3.amazonaws.com/hmmt-archive/november/2018/HMMTNovember2018GeneralRoundSolutions.pdf)
+  
+
