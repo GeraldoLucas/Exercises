@@ -12,3 +12,7 @@
   
 ![MIT](https://user-images.githubusercontent.com/59056176/93005358-9f654d00-f526-11ea-9278-7dae478138f9.png)
 
+
+> The algorithm reads the data provided and returns within a universe up to 10,000 the exact value 6156
+
+![CODE](https://user-images.githubusercontent.com/59056176/93005443-4cd86080-f527-11ea-9aa7-ef19eecdc17b.png)
